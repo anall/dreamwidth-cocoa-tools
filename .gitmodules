@@ -1,0 +1,6 @@
+[submodule "Dreamwidth"]
+	path = Dreamwidth
+	url = git://github.com/anall/dreamwidth-cocoa.git
+[submodule "XMLRPC"]
+	path = XMLRPC
+	url = git://github.com/anall/xmlrpc.git
